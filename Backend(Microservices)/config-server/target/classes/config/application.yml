@@ -1,0 +1,15 @@
+jwt:
+  secret: FoodDeliverySecretKey2026
+
+stripe:
+  secret-key: sk_test_xxxxxxxxxxxxxx
+
+mysql:
+  host: localhost
+  port: 3306
+  database: food_delivery_db
+
+mongodb:
+  host: localhost
+  port: 27017
+  database: food_delivery_logs

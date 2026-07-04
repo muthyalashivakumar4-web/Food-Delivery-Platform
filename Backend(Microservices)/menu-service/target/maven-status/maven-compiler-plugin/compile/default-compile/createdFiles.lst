@@ -1,0 +1,11 @@
+com\foodapp\menu\dto\response\MenuResponse.class
+com\foodapp\menu\service\MenuService.class
+com\foodapp\menu\entity\MenuItem.class
+com\foodapp\menu\MenuServiceApplication.class
+com\foodapp\menu\config\CorsConfig.class
+com\foodapp\menu\controller\MenuController.class
+com\foodapp\menu\service\impl\MenuServiceImpl.class
+com\foodapp\menu\config\CorsConfig$1.class
+com\foodapp\menu\repository\MenuRepository.class
+com\foodapp\menu\config\SecurityConfig.class
+com\foodapp\menu\dto\request\CreateMenuRequest.class

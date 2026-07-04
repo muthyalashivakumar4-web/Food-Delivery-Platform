@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.foodapp</groupId>
+        <artifactId>food-delivery-platform</artifactId>
+        <version>1.0.0</version>
+    </parent>
+
+    <artifactId>common-library</artifactId>
+
+    <packaging>jar</packaging>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+            <version>6.2.7</version>
+        </dependency>
+
+    </dependencies>
+
+</project>

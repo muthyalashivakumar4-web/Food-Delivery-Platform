@@ -1,0 +1,10 @@
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\cart-service\src\main\java\com\foodapp\cart\CartServiceApplication.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\cart-service\src\main\java\com\foodapp\cart\config\CorsConfig.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\cart-service\src\main\java\com\foodapp\cart\config\SecurityConfig.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\cart-service\src\main\java\com\foodapp\cart\controller\CartController.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\cart-service\src\main\java\com\foodapp\cart\dto\request\AddToCartRequest.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\cart-service\src\main\java\com\foodapp\cart\dto\response\CartResponse.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\cart-service\src\main\java\com\foodapp\cart\entity\CartItem.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\cart-service\src\main\java\com\foodapp\cart\repository\CartRepository.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\cart-service\src\main\java\com\foodapp\cart\service\CartService.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\cart-service\src\main\java\com\foodapp\cart\service\impl\CartServiceImpl.java

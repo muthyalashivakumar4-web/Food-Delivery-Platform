@@ -1,0 +1,7 @@
+com\foodapp\notification\repository\NotificationRepository.class
+com\foodapp\notification\service\NotificationService.class
+com\foodapp\notification\entity\Notification.class
+com\foodapp\notification\service\impl\NotificationServiceImpl.class
+com\foodapp\notification\dto\request\EmailRequest.class
+com\foodapp\notification\NotificationServiceApplication.class
+com\foodapp\notification\controller\NotificationController.class

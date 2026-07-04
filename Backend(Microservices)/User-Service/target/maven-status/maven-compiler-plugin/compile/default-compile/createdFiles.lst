@@ -1,0 +1,11 @@
+com\foodapp\user\repository\CustomerProfileRepository.class
+com\foodapp\user\dto\response\CustomerProfileResponse.class
+com\foodapp\user\controller\CustomerProfileController.class
+com\foodapp\user\config\CorsConfig$1.class
+com\foodapp\user\UserServiceApplication.class
+com\foodapp\user\config\CorsConfig.class
+com\foodapp\user\service\impl\CustomerProfileServiceImpl.class
+com\foodapp\user\config\SecurityConfig.class
+com\foodapp\user\service\CustomerProfileService.class
+com\foodapp\user\entity\CustomerProfile.class
+com\foodapp\user\dto\request\CreateProfileRequest.class

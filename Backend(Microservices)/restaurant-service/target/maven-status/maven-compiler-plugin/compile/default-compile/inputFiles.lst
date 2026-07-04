@@ -1,0 +1,10 @@
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\restaurant-service\src\main\java\com\foodapp\restaurant\config\CorsConfig.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\restaurant-service\src\main\java\com\foodapp\restaurant\config\SecurityConfig.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\restaurant-service\src\main\java\com\foodapp\restaurant\controller\RestaurantController.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\restaurant-service\src\main\java\com\foodapp\restaurant\dto\request\CreateRestaurantRequest.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\restaurant-service\src\main\java\com\foodapp\restaurant\dto\response\RestaurantResponse.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\restaurant-service\src\main\java\com\foodapp\restaurant\entity\Restaurant.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\restaurant-service\src\main\java\com\foodapp\restaurant\repository\RestaurantRepository.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\restaurant-service\src\main\java\com\foodapp\restaurant\RestaurantServiceApplication.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\restaurant-service\src\main\java\com\foodapp\restaurant\service\impl\RestaurantServiceImpl.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\restaurant-service\src\main\java\com\foodapp\restaurant\service\RestaurantService.java

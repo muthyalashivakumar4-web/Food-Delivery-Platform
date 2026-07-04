@@ -1,0 +1,16 @@
+com\foodapp\order\config\CorsConfig$1.class
+com\foodapp\order\controller\OrderController.class
+com\foodapp\order\entity\OrderItem.class
+com\foodapp\order\dto\request\PlaceOrderRequest.class
+com\foodapp\order\dto\response\OrderItemResponse.class
+com\foodapp\order\entity\Order.class
+com\foodapp\order\dto\response\OrderResponse.class
+com\foodapp\order\dto\request\OrderItemRequest.class
+com\foodapp\order\entity\OrderStatus.class
+com\foodapp\order\service\OrderService.class
+com\foodapp\order\repository\OrderRepository.class
+com\foodapp\order\service\impl\OrderServiceImpl.class
+com\foodapp\order\OrderServiceApplication.class
+com\foodapp\order\repository\OrderItemRepository.class
+com\foodapp\order\config\SecurityConfig.class
+com\foodapp\order\config\CorsConfig.class

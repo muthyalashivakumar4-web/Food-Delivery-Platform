@@ -1,0 +1,10 @@
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\User-Service\src\main\java\com.foodapp.user\entity\CustomerProfile.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\User-Service\src\main\java\com.foodapp.user\repository\CustomerProfileRepository.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\User-Service\src\main\java\com.foodapp.user\UserServiceApplication.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\User-Service\src\main\java\com\foodapp\user\config\CorsConfig.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\User-Service\src\main\java\com\foodapp\user\config\SecurityConfig.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\User-Service\src\main\java\com\foodapp\user\controller\CustomerProfileController.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\User-Service\src\main\java\com\foodapp\user\dto\request\CreateProfileRequest.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\User-Service\src\main\java\com\foodapp\user\dto\response\CustomerProfileResponse.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\User-Service\src\main\java\com\foodapp\user\service\CustomerProfileService.java
+C:\JRTP\food-delivery-platform\backend\food-delivery-platform\User-Service\src\main\java\com\foodapp\user\service\impl\CustomerProfileServiceImpl.java
